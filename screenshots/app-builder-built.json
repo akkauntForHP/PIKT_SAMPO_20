@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Вариант 20 — защита классификационного решения",
+      "hasCanvas": false,
+      "bodyTextLen": 1709,
+      "bodyTextHash": "cf9276b98ab783b41c2a458af0d2037f8d447a802714ee97cb6c7193372a50c2",
+      "bodyTextPrefix": "Комиссия ВАРИАНТ 20 Дела Решение База САМОСТОЯТЕЛЬНАЯ РАБОТА · П",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Вариант 20 — защита классификационного решения",
+      "hasCanvas": false,
+      "bodyTextLen": 1709,
+      "bodyTextHash": "cf9276b98ab783b41c2a458af0d2037f8d447a802714ee97cb6c7193372a50c2",
+      "bodyTextPrefix": "Комиссия ВАРИАНТ 20 Дела Решение База САМОСТОЯТЕЛЬНАЯ РАБОТА · П",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
